@@ -2,7 +2,8 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:800);
 
 .box-with-text {
-  background-image: url(http://tympanus.net/codrops-playground/assets/images/posts/23145/image1.jpg);
+     background-image: url('/img/bc.jpg');
+ 
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
